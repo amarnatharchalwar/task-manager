@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "init": "^0.1.2",
+    "mongodb": "^5.4.0",
+    "mongoose": "^5.13.17",
+    "validator": "^13.9.0"
+  }
+}
